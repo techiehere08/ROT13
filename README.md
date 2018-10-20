@@ -9,3 +9,5 @@
  > Rotted value of n is a that is 13th letter next to n.
  > Rotted value of p is p that is 13th letter next to p.
 ![example](https://upload.wikimedia.org/wikipedia/commons/2/2c/ROT13_table.svg)
+##Basic Idea 
+The very basic idea used here is to convert the each character provided by the user to its ascii value and the increament or decreament it on the basis of its value.
